@@ -1,2 +1,0 @@
-# dam-registry
-Begin app
